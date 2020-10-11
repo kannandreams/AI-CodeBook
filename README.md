@@ -1,5 +1,5 @@
-# AI-CodeBook
-Curated code reference for anything related to AI domain and all sub domains.
+# AI-CodeBook [ In Development ]
+Curated code reference for anything related to AI domain and all sub domains. 
 
 
 ## Motivation
